@@ -1,2 +1,2 @@
 # hello-world
-First github project or to be more accurate, first GitHub repository. Am I right?
+First GitHub repository file. To learn and practise basit GitHub functionalities.
